@@ -1,3 +1,5 @@
+# in thiscd /opt/AdGuardHome
+
 http:
   pprof:
     port: 6060
